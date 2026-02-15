@@ -1,0 +1,10 @@
+I use Arch Btw.
+I have 3 yrs of LINUX EXPERIENCE AND CONDUCTED EVENT AT CSR CLUB ABT LINUX FUNDAMENTALS
+
+LINUX COMMANDS
+ls
+mkdir
+rm 
+touch
+vim 
+nano
